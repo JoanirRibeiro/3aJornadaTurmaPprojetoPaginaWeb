@@ -28,3 +28,15 @@ body {
     margin: 0;
     padding: 0;
 }
+
+.cabecalho {
+    background-color: #116D6E;
+}
+
+.conteudo {
+    background-color: #321E1E;
+}
+
+.rodape {
+    background-color: #CD1818;
+}
