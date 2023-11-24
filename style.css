@@ -28,12 +28,18 @@
 
 .cabecalho {
     background-color: #116D6E;
+    margin: 0;
+    padding: 5%;
 }
 
 .conteudo {
     background-color: #321E1E;
+    margin: 0;
+    padding: 10%;
 }
 
 .rodape {
     background-color: #CD1818;
+    margin: 0;
+    padding: 5%;
 }
