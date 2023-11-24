@@ -39,7 +39,7 @@
 }
 
 .rodape {
-    background-color: #CD1818;
+    background-image: linear-gradient(#321E1E, #CD1818) ;
     margin: 0;
     padding: 5%;
 }
