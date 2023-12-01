@@ -15,13 +15,6 @@
     text-align: center;
 }
 
-.cabecalho-imagem {
-    width: 10px;
-    margin: 0;
-    padding: 0;
-    border-radius: 10px;
-    text-align: center;
-}
 
 .cabecalho-titulo {
     font-size: 30px;
@@ -34,6 +27,14 @@
     margin: 0;
     padding: 4%;
     border-bottom: 5px solid  #CD1818;
+}
+
+#cabecalho-imagem-logo {
+    width: 150px;
+    margin: 0;
+    padding: 0;
+    border-radius: 10px;
+    text-align: center;
 }
 
 .conteudo {
