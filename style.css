@@ -10,10 +10,6 @@
     font-size: 20px;
 }
 
-#titulo1 {
-    color: #13005A;
-    text-align: center;
-}
 
 #subtitulo1 {
     color: #00337C;
@@ -29,7 +25,10 @@
 .cabecalho {
     background-color: #116D6E;
     margin: 0;
-    padding: 5%;
+    padding: 4%;
+    color: #13005A;
+    font-size: 30px;
+    border-bottom: 5px solid  #CD1818;
 }
 
 .conteudo {
@@ -39,7 +38,7 @@
 }
 
 .rodape {
-    background-image: linear-gradient(#321E1E, #CD1818) ;
+    background-color:  #CD1818 ;
     margin: 0;
     padding: 5%;
 }
