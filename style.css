@@ -16,11 +16,13 @@
     text-align: center;
 }
 
-#logo {
-    width: 300px;
+.bacecalho-imagem {
+    width: 250px;
     margin: 0;
     padding: 0;
-}
+    border-radius: 10px;
+    text-align: center;
+
 
 .cabecalho {
     background-color: #116D6E;
