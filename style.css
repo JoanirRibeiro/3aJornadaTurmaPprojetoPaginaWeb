@@ -27,6 +27,7 @@
     margin: 0;
     padding: 4%;
     border-bottom: 5px solid  #CD1818;
+    justify-content: space-around;
     display: flex;
 }
 
